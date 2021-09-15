@@ -1,0 +1,10 @@
+name: VanishPlugin
+version: '${version}'
+main: cz.bakterio.vanishplugin.VanishPlugin
+api-version: 1.17
+authors: [ Bakterio ]
+description: Hide you like every vanish plugin.
+commands:
+  vanish:
+    usage: /<commands>
+    description: Hide you. :D (normal vanish)
